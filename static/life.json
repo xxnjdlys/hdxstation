@@ -1,0 +1,179 @@
+{
+    "status": 0,
+    "message": "这里是错误信息!!!.",
+    "data": {
+        "category": {
+            "title": "营生活tab的数据",
+            "list": [
+                {
+                    "id": 0,
+                    "name": "好好学习",
+                    "desc": "这里是描述",
+                    "items": [
+                        {
+                            "title": "第一条数据",
+                            "desc": "这里是描述",
+                            "icon": "https://raw.githubusercontent.com/xxnjdlys/Photos/master/res/c5.jpg",
+                            "cover": "https://raw.githubusercontent.com/xxnjdlys/Photos/master/res/home/category/c01.jpg",
+                            "router": "/pages/home/index"
+                        },
+                        {
+                            "title": "第二条数据",
+                            "desc": "这里是描述",
+                            "icon": "https://raw.githubusercontent.com/xxnjdlys/Photos/master/res/c5.jpg",
+                            "cover": "https://raw.githubusercontent.com/xxnjdlys/Photos/master/res/home/category/c02.jpg",
+                            "router": "/pages/home/index"
+                        },
+                        {
+                            "title": "第三条数据",
+                            "desc": "这里是描述",
+                            "icon": "https://raw.githubusercontent.com/xxnjdlys/Photos/master/res/c4.jpg",
+                            "cover": "https://raw.githubusercontent.com/xxnjdlys/Photos/master/res/home/category/c03.jpg",
+                            "router": "/pages/home/index"
+                        }
+                    ]
+                },
+                {
+                    "id": 1,
+                    "name": "天天向上",
+                    "desc": "这里是描述",
+                    "items": [
+                        {
+                            "title": "第一条数据",
+                            "desc": "这里是描述",
+                            "icon": "https://raw.githubusercontent.com/xxnjdlys/Photos/master/res/c5.jpg",
+                            "cover": "https://raw.githubusercontent.com/xxnjdlys/Photos/master/res/home/category/c11.jpg",
+                            "router": "/pages/home/index"
+                        },
+                        {
+                            "title": "第二条数据",
+                            "desc": "这里是描述",
+                            "icon": "https://raw.githubusercontent.com/xxnjdlys/Photos/master/res/c5.jpg",
+                            "cover": "https://raw.githubusercontent.com/xxnjdlys/Photos/master/res/home/category/c12.jpg",
+                            "router": "/pages/home/index"
+                        },
+                        {
+                            "title": "第三条数据",
+                            "desc": "这里是描述",
+                            "icon": "https://raw.githubusercontent.com/xxnjdlys/Photos/master/res/c4.jpg",
+                            "cover": "https://raw.githubusercontent.com/xxnjdlys/Photos/master/res/home/category/c13.jpg",
+                            "router": "/pages/home/index"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "name": "学而时习",
+                    "desc": "这里是描述",
+                    "items": [
+                        {
+                            "title": "第一条数据",
+                            "desc": "这里是描述",
+                            "icon": "https://raw.githubusercontent.com/xxnjdlys/Photos/master/res/c5.jpg",
+                            "cover": "https://raw.githubusercontent.com/xxnjdlys/Photos/master/res/home/category/c21.jpg",
+                            "router": "/pages/home/index"
+                        },
+                        {
+                            "title": "第二条数据",
+                            "desc": "这里是描述",
+                            "icon": "https://raw.githubusercontent.com/xxnjdlys/Photos/master/res/c5.jpg",
+                            "cover": "https://raw.githubusercontent.com/xxnjdlys/Photos/master/res/home/category/c22.jpg",
+                            "router": "/pages/home/index"
+                        },
+                        {
+                            "title": "第三条数据",
+                            "desc": "这里是描述",
+                            "icon": "https://raw.githubusercontent.com/xxnjdlys/Photos/master/res/c4.jpg",
+                            "cover": "https://raw.githubusercontent.com/xxnjdlys/Photos/master/res/home/category/c23.jpg",
+                            "router": "/pages/home/index"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "name": "子曰成人",
+                    "desc": "这里是描述",
+                    "items": [
+                        {
+                            "title": "第一条数据",
+                            "desc": "这里是描述",
+                            "icon": "https://raw.githubusercontent.com/xxnjdlys/Photos/master/res/c5.jpg",
+                            "cover": "http://img.wukongtv.com/wkremote/zhuanti_web/kaixue/KAI.png",
+                            "router": "/pages/home/index"
+                        },
+                        {
+                            "title": "第二条数据",
+                            "desc": "这里是描述",
+                            "icon": "https://raw.githubusercontent.com/xxnjdlys/Photos/master/res/c5.jpg",
+                            "cover": "http://img.wukongtv.com/wkremote/video/hengtu_banner/8yue/5/big/1233(1).png",
+                            "router": "/pages/home/index"
+                        },
+                        {
+                            "title": "第三条数据",
+                            "desc": "这里是描述",
+                            "icon": "https://raw.githubusercontent.com/xxnjdlys/Photos/master/res/c4.jpg",
+                            "cover": "http://img.wukongtv.com/wkremote/video/hengtu_banner/8yue/5/big/luz.png",
+                            "router": "/pages/home/index"
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "name": "惊不惊喜",
+                    "desc": "这里是描述",
+                    "items": [
+                        {
+                            "title": "第一条数据",
+                            "desc": "这里是描述",
+                            "icon": "https://raw.githubusercontent.com/xxnjdlys/Photos/master/res/c5.jpg",
+                            "cover": "http://img.wukongtv.com/wkremote/zhuanti_web/kaixue/KAI.png",
+                            "router": "/pages/home/index"
+                        },
+                        {
+                            "title": "第二条数据",
+                            "desc": "这里是描述",
+                            "icon": "https://raw.githubusercontent.com/xxnjdlys/Photos/master/res/c5.jpg",
+                            "cover": "http://img.wukongtv.com/wkremote/video/hengtu_banner/8yue/5/big/1233(1).png",
+                            "router": "/pages/home/index"
+                        },
+                        {
+                            "title": "第三条数据",
+                            "desc": "这里是描述",
+                            "icon": "https://raw.githubusercontent.com/xxnjdlys/Photos/master/res/c4.jpg",
+                            "cover": "http://img.wukongtv.com/wkremote/video/hengtu_banner/8yue/5/big/luz.png",
+                            "router": "/pages/home/index"
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "name": "意不意外",
+                    "desc": "这里是描述",
+                    "items": [
+                        {
+                            "title": "第一条数据",
+                            "desc": "这里是描述",
+                            "icon": "https://raw.githubusercontent.com/xxnjdlys/Photos/master/res/c5.jpg",
+                            "cover": "http://img.wukongtv.com/wkremote/zhuanti_web/kaixue/KAI.png",
+                            "router": "/pages/home/index"
+                        },
+                        {
+                            "title": "第二条数据",
+                            "desc": "这里是描述",
+                            "icon": "https://raw.githubusercontent.com/xxnjdlys/Photos/master/res/c5.jpg",
+                            "cover": "http://img.wukongtv.com/wkremote/video/hengtu_banner/8yue/5/big/1233(1).png",
+                            "router": "/pages/home/index"
+                        },
+                        {
+                            "title": "第三条数据",
+                            "desc": "这里是描述",
+                            "icon": "https://raw.githubusercontent.com/xxnjdlys/Photos/master/res/c4.jpg",
+                            "cover": "http://img.wukongtv.com/wkremote/video/hengtu_banner/8yue/5/big/luz.png",
+                            "router": "/pages/home/index"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

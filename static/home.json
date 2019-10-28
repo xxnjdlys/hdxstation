@@ -1,0 +1,274 @@
+{
+    "status": 0,
+    "message": "这里是错误信息!!!.",
+    "data": {
+        "search": {
+            "hint": "输入商品地点找优惠",
+            "recmd": {
+                "hot": [
+                    "美食",
+                    "娱乐",
+                    "电影",
+                    "酒店"
+                ]
+            }
+        },
+        "category": {
+            "title": "这里是分类的标题",
+            "list": [
+                {
+                    "title": "问你瞅啥",
+                    "desc": "这里是描述",
+                    "icon": "https://raw.githubusercontent.com/xxnjdlys/Photos/master/res/home/category/c1.jpg",
+                    "router": "/pages/home/index"
+                },
+                {
+                    "title": "哈哈哈哈",
+                    "desc": "这里是描述",
+                    "icon": "https://raw.githubusercontent.com/xxnjdlys/Photos/master/res/home/category/c2.jpg",
+                    "router": "/pages/home/index"
+                },
+                {
+                    "title": "啊啊啊啊",
+                    "desc": "这里是描述",
+                    "icon": "https://raw.githubusercontent.com/xxnjdlys/Photos/master/res/home/category/c3.jpg",
+                    "router": "/pages/home/index"
+                },
+                {
+                    "title": "呵呵呵呵",
+                    "desc": "这里是描述",
+                    "icon": "https://raw.githubusercontent.com/xxnjdlys/Photos/master/res/home/category/c4.jpg",
+                    "router": "/pages/home/index"
+                },
+                {
+                    "title": "嘿嘿嘿嘿",
+                    "desc": "这里是描述",
+                    "icon": "https://raw.githubusercontent.com/xxnjdlys/Photos/master/res/home/category/c5.jpg",
+                    "router": "/pages/home/index"
+                },
+                {
+                    "title": "嘻嘻嘻嘻",
+                    "desc": "这里是描述",
+                    "icon": "https://raw.githubusercontent.com/xxnjdlys/Photos/master/res/home/category/c6.jpg",
+                    "router": "/pages/home/index"
+                },
+                {
+                    "title": "嘎嘎嘎嘎",
+                    "desc": "这里是描述",
+                    "icon": "https://raw.githubusercontent.com/xxnjdlys/Photos/master/res/home/category/c7.jpg",
+                    "router": "/pages/home/index"
+                },
+                {
+                    "title": "这这这这",
+                    "desc": "这里是描述",
+                    "icon": "https://raw.githubusercontent.com/xxnjdlys/Photos/master/res/home/category/c8.jpg",
+                    "router": "/pages/home/index"
+                },
+                {
+                    "title": "那那那那",
+                    "desc": "这里是描述",
+                    "icon": "https://raw.githubusercontent.com/xxnjdlys/Photos/master/res/home/category/c9.jpg",
+                    "router": "/pages/home/index"
+                },
+                {
+                    "title": "瞅你咋地",
+                    "desc": "这里是描述",
+                    "icon": "https://raw.githubusercontent.com/xxnjdlys/Photos/master/res/home/category/c10.jpg",
+                    "router": "/pages/home/index"
+                }
+            ]
+        },
+        "banner": {
+            "title": "这里是banner的标题.",
+            "list": [
+                {
+                    "title": "庆黄晓明语录“喜”登央视 悟空大礼来谢",
+                    "cover": "https://raw.githubusercontent.com/xxnjdlys/Photos/master/res/home/banner/b1.png",
+                    "router": "/pages/my/index"
+                },
+                {
+                    "title": "陆战之王",
+                    "cover": "https://raw.githubusercontent.com/xxnjdlys/Photos/master/res/home/banner/b2.png",
+                    "router": "/pages/my/index"
+                },
+                {
+                    "title": "开学季电影合集",
+                    "cover": "https://raw.githubusercontent.com/xxnjdlys/Photos/master/res/home/banner/b3.png",
+                    "router": "/pages/my/index"
+                },
+                {
+                    "title": "激荡中国",
+                    "cover": "https://raw.githubusercontent.com/xxnjdlys/Photos/master/res/home/banner/b4.png",
+                    "router": "/pages/home/index"
+                },
+                {
+                    "title": "九月观影指南",
+                    "cover": "https://raw.githubusercontent.com/xxnjdlys/Photos/master/res/home/banner/b5.png",
+                    "router": "/pages/home/index"
+                },
+                {
+                    "title": "头号型动派",
+                    "cover": "https://raw.githubusercontent.com/xxnjdlys/Photos/master/res/home/banner/b6.png",
+                    "router": "/pages/home/index"
+                },
+                {
+                    "title": "九千米爱情",
+                    "cover": "https://raw.githubusercontent.com/xxnjdlys/Photos/master/res/home/banner/b7.png",
+                    "router": "/pages/home/index"
+                },
+                {
+                    "title": "小猪佩奇第七季",
+                    "cover": "https://raw.githubusercontent.com/xxnjdlys/Photos/master/res/home/banner/b8.png",
+                    "router": "/pages/home/index"
+                }
+            ]
+        },
+        "hot":{
+            "title": "这里是推荐的标题.",
+            "list": [
+                {
+                    "title": "开学季电影合集",
+                    "cover": "https://raw.githubusercontent.com/xxnjdlys/Photos/master/res/home/hot/h1.png",
+                    "router": "/pages/my/index"
+                },
+                {
+                    "title": "陆战之王",
+                    "cover": "https://raw.githubusercontent.com/xxnjdlys/Photos/master/res/home/hot/h2.png",
+                    "router": "/pages/my/index"
+                },
+                {
+                    "title": "庆黄晓明语录“喜”登央视 悟空大礼来谢",
+                    "cover": "https://raw.githubusercontent.com/xxnjdlys/Photos/master/res/home/hot/h3.png",
+                    "router": "/pages/my/index"
+                },
+                {
+                    "title": "最热竖直展示图片",
+                    "cover": "https://raw.githubusercontent.com/xxnjdlys/Photos/master/res/home/hot/h4.png",
+                    "router": "/pages/my/index"
+                }
+            ]
+        },
+        "recommend": {
+            "title": "这里是推荐的标题.",
+            "list": [
+                {
+                    "name": "长安十二时辰",
+                    "statKey": "长安十二时辰",
+                    "cover": "https://raw.githubusercontent.com/xxnjdlys/Photos/master/res/home/recommend/r1.png",
+                    "corner": "http://img.wukongtv.com/img/dajieju_new.png",
+                    "score": "",
+                    "mark": "",
+                    "router": {
+                        "tvVersion": "0",
+                        "phoneVersion": "0",
+                        "action": "wukongtv://videodetails?wkid=999998835&/dianbo/find"
+                    }
+                },
+                {
+                    "name": "小欢喜",
+                    "statKey": "小欢喜",
+                    "cover": "https://raw.githubusercontent.com/xxnjdlys/Photos/master/res/home/recommend/r2.png",
+                    "corner": "http://img.wukongtv.com/img/dajieju_new.png",
+                    "score": "",
+                    "mark": "",
+                    "router": {
+                        "tvVersion": "0",
+                        "phoneVersion": "0",
+                        "action": "wukongtv://videodetails?wkid=1000007321&/dianbo/find"
+                    }
+                },
+                {
+                    "name": "陈情令",
+                    "statKey": "陈情令",
+                    "cover": "https://raw.githubusercontent.com/xxnjdlys/Photos/master/res/home/recommend/r3.jpg",
+                    "corner": "http://img.wukongtv.com/img/dajieju_new.png",
+                    "score": "",
+                    "mark": "",
+                    "router": {
+                        "tvVersion": "0",
+                        "phoneVersion": "0",
+                        "action": "wukongtv://videodetails?wkid=900002266&/dianbo/find"
+                    }
+                },
+                {
+                    "name": "全职高手",
+                    "statKey": "全职高手",
+                    "cover": "https://raw.githubusercontent.com/xxnjdlys/Photos/master/res/home/recommend/r4.png",
+                    "corner": "http://img.wukongtv.com/img/redian_new.png",
+                    "score": "",
+                    "mark": "",
+                    "router": {
+                        "tvVersion": "0",
+                        "phoneVersion": "0",
+                        "action": "wukongtv://videodetails?wkid=1000006209&/dianbo/find"
+                    }
+                },
+                {
+                    "name": "烈火军校",
+                    "statKey": "烈火军校",
+                    "cover": "https://raw.githubusercontent.com/xxnjdlys/Photos/master/res/home/recommend/r5.png",
+                    "corner": "",
+                    "score": "",
+                    "mark": "",
+                    "router": {
+                        "tvVersion": "0",
+                        "phoneVersion": "0",
+                        "action": "wukongtv://videodetails?wkid=1000008626&/dianbo/find"
+                    }
+                },
+                {
+                    "name": "宸汐缘",
+                    "statKey": "宸汐缘",
+                    "cover": "https://raw.githubusercontent.com/xxnjdlys/Photos/master/res/home/recommend/r6.png",
+                    "corner": "http://img.wukongtv.com/img/dajieju_new.png",
+                    "score": "",
+                    "mark": "",
+                    "router": {
+                        "tvVersion": "0",
+                        "phoneVersion": "0",
+                        "action": "wukongtv://videodetails?wkid=1000004353&/dianbo/find"
+                    }
+                },
+                {
+                    "name": "老酒馆",
+                    "statKey": "老酒馆",
+                    "cover": "https://raw.githubusercontent.com/xxnjdlys/Photos/master/res/home/recommend/r7.png",
+                    "corner": "http://img.wukongtv.com/img/qiangxian_new.png",
+                    "score": "",
+                    "mark": "",
+                    "router": {
+                        "tvVersion": "0",
+                        "phoneVersion": "0",
+                        "action": "wukongtv://videodetails?wkid=1000013171&/dianbo/find"
+                    }
+                },
+                {
+                    "name": "山月不知心底事",
+                    "statKey": "山月不知心底事",
+                    "cover": "https://raw.githubusercontent.com/xxnjdlys/Photos/master/res/home/recommend/r8.png",
+                    "corner": "",
+                    "score": "",
+                    "mark": "",
+                    "router": {
+                        "tvVersion": "0",
+                        "phoneVersion": "0",
+                        "action": "wukongtv://videodetails?wkid=1000011842&/dianbo/find"
+                    }
+                },
+                {
+                    "name": "我的邻居睡不着",
+                    "statKey": "我的邻居睡不着",
+                    "cover": "https://raw.githubusercontent.com/xxnjdlys/Photos/master/res/home/recommend/r9.png",
+                    "corner": "",
+                    "score": "",
+                    "mark": "",
+                    "router": {
+                        "tvVersion": "0",
+                        "phoneVersion": "0",
+                        "action": "wukongtv://videodetails?wkid=1000010595&/dianbo/find"
+                    }
+                }
+            ]
+        }
+    }
+}
